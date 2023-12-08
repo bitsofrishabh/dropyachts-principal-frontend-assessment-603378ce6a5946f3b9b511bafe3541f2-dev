@@ -1,4 +1,4 @@
-const data = [
+const dataSet = [
   {
     date: "12/29/2020",
     impressions: "5392",
@@ -1195,4 +1195,4 @@ const data = [
   },
 ];
 
-export default data;
+export default dataSet;
