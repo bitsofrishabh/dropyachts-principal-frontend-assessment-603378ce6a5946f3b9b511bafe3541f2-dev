@@ -1,0 +1,12 @@
+ul {
+  @apply mb-20;
+}
+
+li {
+  @apply mb-8;
+}
+
+li:hover {
+    cursor: pointer;
+    color: brown;
+}
